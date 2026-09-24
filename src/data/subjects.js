@@ -1,1 +1,0 @@
-export const subjects=['Lenguaje y Comunicación','Lengua y Literatura','Matemática','Ciencias Naturales','Historia, Geografía y Ciencias Sociales','Tecnología','Artes Visuales','Música','Educación Física y Salud','Orientación','Inglés','Lengua Indígena / Mapuzugün','Educación Parvularia'];
